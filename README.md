@@ -1,3 +1,32 @@
+### Template
+
+```markdown
+Land Page Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3
+
+## 📒 Descrição
+Land Page para prospeção de clientes para o  Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3
+
+## 🤖 Tecnologias Utilizadas
+ChatGPT
+
+## 🧐 Processo de Criação
+Solicitei ao ChatGPT para que criasse uma página HTML com a intenção de que as pessoas interessadas pudessem se inscrever.
+
+Orientei o ChatGPT basicamente para que incluísse o nome do Bootcamp e que o mesmo fosse chamativo e vendedor.
+
+Solicitei também que desse ênfase nos seguintes pontos:
+
+Aprendizado: Enfatizar a qualidade do ensino e os diferenciais do Bootcamp.
+Mentoria Especializada: Destacar a experiência e qualificação dos mentores.
+Projetos Práticos: Ressaltar a importância da prática para o aprendizado e a relevância dos projetos para o mercado de trabalho
+
+
+## 🚀 Resultados
+Com a ferramenta, consegui criar uma página HTML clean, intuitiva e de fácil uso, mesmo sem ter experiência em programação. Em apenas alguns minutos, consegui estruturar a página, adicionar conteúdo e formatar o texto.
+
+## 💭 Reflexão (Opcional)
+Foi divertido e desafiador ao mesmo tempo, não sabia nada de código apenas sabia as perguntas que queria.
+```
 # Código HMTL criado pelo ChatGpt
 
 <!DOCTYPE html>
