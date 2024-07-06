@@ -20,22 +20,30 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Extremamente Aesthetic ;
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Página de prospecção para atrair alunos para o Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizado ChatGpt para criação do html
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei ao ChatGPT para que criasse uma página HTML com a intenção de que as pessoas interessadas pudessem se inscrever.
+
+Orientei o ChatGPT basicamente para que incluísse o nome do Bootcamp e que o mesmo fosse chamativo e vendedor.
+
+Solicitei também que desse ênfase nos seguintes pontos:
+
+Aprendizado: Enfatizar a qualidade do ensino e os diferenciais do Bootcamp.
+Mentoria Especializada: Destacar a experiência e qualificação dos mentores.
+Projetos Práticos: Ressaltar a importância da prática para o aprendizado e a relevância dos projetos para o mercado de trabalho.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Com a ferramenta, consegui criar uma página HTML clean, intuitiva e de fácil uso, mesmo sem ter experiência em programação.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi muito legal, muitas possibilidades novas
 ```
 
 ### Exemplos e Insigths
